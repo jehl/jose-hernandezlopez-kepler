@@ -1,0 +1,50 @@
+*{
+    padding: 2px transparent black;
+    margin: 2px transparent white;
+}
+head{
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 24px;
+}
+
+body{
+    background-color: #2A627D;
+    color: #FFCC00;
+    font-family: Helvetica, Arial;
+    font-size: 12px;
+}
+.About{
+    text-align: left;
+}
+.h2{
+    color: #FFCC00;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.Experience{
+    padding: 1;
+    border: 1;
+    margin: 2;
+
+}
+
+.Connect .ul{
+    color: yellow;
+    font-family: Courier, "Times New Romans";
+}
+/*
+X Change the background color of the page body
+X Change the default text color
+X Customize the font family
+ STRETCH GOAL (optional):load in a font family from Google Fonts
+X Add spacing (padding/margin) between sections
+X Change the alignment of the content of one of your sections
+X Change the font size, weight, and color of headings
+X Transform the style of your Name at the top of the page
+X STRETCH GOAL (optional): add a picture of yourself to HTML and/or CSS (remember to include accessibility aspects if you add any images!)
+X Transform the "Experience" list items into styled blocks
+X Transform the style of the "Connect" links
+ STRETCH GOAL (optional): make or use social media icons to replace your link text with images
+*/
